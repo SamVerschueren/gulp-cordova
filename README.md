@@ -3,8 +3,7 @@
 ```gulp-cordova``` is not a single library that takes care of everything, it is a bundle of multiple libraries
 that each leverage a different task in the chain of creating cordova projects.
 
-Like many others, these libraries are build with the ```code over configuration``` mindset instead of
-```configuration over code```.
+Like many others, these libraries are build with ```code over configuration``` kept in mind.
 
 ## Examples
 
