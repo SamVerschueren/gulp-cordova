@@ -8,18 +8,20 @@ Like many others, these libraries are build with ```code over configuration``` k
 ## Examples
 
 The first example creates a cordova project, adds two plugins and copies the contents of the ```dist``` directory
-to the ```www``` directory of the cordova project.
+to the ```www``` directory of the cordova project. In the end, it builds the project for the Android platform.
 
 ```JavaScript
 var gulp = require('gulp'),
     create = require('gulp-cordova-create'),
-    plugin = require('gulp-cordova-plugin');
+    plugin = require('gulp-cordova-plugin'),
+    android = require('gulp-cordova-build-android');
 
 gulp.task('build', function() {
     return gulp.src('dist')
         .pipe(create())
         .pipe(plugin('org.apache.cordova.file'))
-        .pipe(plugin('org.apache.cordova.inappbrowser'));
+        .pipe(plugin('org.apache.cordova.inappbrowser'))
+        .pipe(android());
 });
 ```
 
@@ -29,6 +31,8 @@ gulp.task('build', function() {
     - Create a cordova project
 2. [gulp-cordova-plugin](https://github.com/SamVerschueren/gulp-cordova-plugin)
     - Add a plugin to your cordova project
+3. [`gulp-cordova-build-android`](https://github.com/SamVerschueren/gulp-cordova-build-android)
+    - Build the cordova project for the Android platform.
 
 ## Author
 
