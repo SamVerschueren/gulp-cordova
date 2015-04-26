@@ -25,6 +25,8 @@ gulp.task('build', function() {
 });
 ```
 
+The cordova project is created in the ```.cordova``` directory.
+
 ## Plugins
 
 1. [gulp-cordova-create](https://github.com/SamVerschueren/gulp-cordova-create)
