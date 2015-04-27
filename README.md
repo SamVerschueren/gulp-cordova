@@ -35,6 +35,8 @@ The cordova project is created in the ```.cordova``` directory.
     - Add a plugin to your cordova project
 3. [`gulp-cordova-build-android`](https://github.com/SamVerschueren/gulp-cordova-build-android)
     - Build the cordova project for the Android platform.
+3. [`gulp-cordova-build-bb10`](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
+    - Build the cordova project for the BlackBerry 10 platform.
 
 ## Author
 
