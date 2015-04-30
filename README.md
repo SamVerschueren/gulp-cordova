@@ -1,6 +1,6 @@
 # gulp-cordova
 
-```gulp-cordova``` is not a single library that takes care of everything, it is a bundle of multiple libraries
+`gulp-cordova` is not a single library that takes care of everything, it is a bundle of multiple libraries
 that each leverage a different task in the chain of creating cordova projects.
 
 Like many others, these libraries are build with ```code over configuration``` kept in mind.
@@ -25,11 +25,9 @@ gulp.task('build', function() {
 });
 ```
 
-The cordova project is created in the ```.cordova``` directory.
+The cordova project is by default created in the ```.cordova``` directory.
 
 ## Plugins
-
-The following plugins are available
 
 1. [gulp-cordova-create](https://github.com/SamVerschueren/gulp-cordova-create)
     - Create a cordova project
@@ -37,16 +35,16 @@ The following plugins are available
     - Add a plugin to your cordova project
 3. [gulp-cordova-build-android](https://github.com/SamVerschueren/gulp-cordova-build-android)
     - Build the cordova project for the Android platform.
-3. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
+4. [gulp-cordova-build-ios](https://github.com/SamVerschueren/gulp-cordova-build-ios)
+    - Build the cordova project for the iOS platform.
+5. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
     - Build the cordova project for the BlackBerry 10 platform.
 
 These plugins will become available in the near future
 
-1. gulp-cordova-build-ios
-    - Build the cordova project for the iOS platform
-2. gulp-cordova-build-wp8
+1. gulp-cordova-build-wp8
     - Build the cordova project for the Windows Phone platform
-3. gulp-cordova-build
+2. gulp-cordova-build
     - General builder that can be used for any platform
 
 ## Author
