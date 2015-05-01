@@ -5,7 +5,9 @@ that each leverage a different task in the chain of creating cordova projects.
 
 Like many others, these libraries are build with ```code over configuration``` kept in mind.
 
-* [Examples](examples.md) - Learn to use `gulp-cordova` by examples
+## Table of contents
+
+-  [Examples](examples.md) - Learn how to use `gulp-cordova` by examples
 
 ## Plugins
 
