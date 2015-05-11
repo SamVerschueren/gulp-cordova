@@ -5,6 +5,12 @@ that each leverage a different task in the chain of creating cordova projects.
 
 Like many others, these libraries are build with ```code over configuration``` kept in mind.
 
+## Important
+
+This entire project is still in beta. I'm working hard to deliver more plugins and to make the existing plugins
+bugfree. If something isn't working, please create a new issue in the appropriate plugin project. I will
+accept pull requests as well.
+
 ## Table of contents
 
 -  [Examples](examples.md) - Learn how to use `gulp-cordova` by examples
