@@ -37,7 +37,7 @@ These plugins are currently available.
 6. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
     - Build the cordova project for the BlackBerry 10 platform.
 
-More plugins will follow in the near future.
+*More plugins will follow in the near future.*
 
 ## Author
 
