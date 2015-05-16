@@ -13,7 +13,12 @@ accept pull requests as well.
 
 ## Table of contents
 
--  [Examples](examples.md) - Learn how to use `gulp-cordova` by examples
+-  [Examples](examples.md)
+    - [Create a cordova project](examples.md#create-a-cordova-project)
+    - [Add a plugin](examples.md#add-a-plugin)
+    - [Add an icon](examples.md#add-an-icon)
+    - [Build a project](examples.md#build-a-project)
+        - [Android](examples.md#android)
 
 ## Plugins
 
