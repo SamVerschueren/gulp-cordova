@@ -57,6 +57,8 @@ gulp.task('create', function() {
 });
 ```
 
+This does the exact same thing as the key-value pair example by calling the plugin only once.
+
 A good thing to notice is that every time the `gulp-cordova-preference` plugin is called, the `config.xml` file is parsed. Because
 of this, the object method is a great advantage over the key-value pair method because with the object method, the config file will
 only be parsed once.
