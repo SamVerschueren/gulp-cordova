@@ -13,14 +13,16 @@ accept pull requests as well.
 
 ## Table of contents
 
--  [Examples](examples.md)
-    - [Create a cordova project](examples.md#create-a-cordova-project)
-    - [Add a plugin](examples.md#add-a-plugin)
-    - [Add an icon](examples.md#add-an-icon)
+-  [Examples](examples/examples.md)
+    - [Create a cordova project](examples/create.md)
+    - [Add a plugin](examples/plugin.md)
+    - [Add an icon](examples/icon.md)
     - [Build a project](examples.md#build-a-project)
         - [Android](examples.md#android)
 
 ## Plugins
+
+These plugins are currently available.
 
 1. [gulp-cordova-create](https://github.com/SamVerschueren/gulp-cordova-create)
     - Create a cordova project.
