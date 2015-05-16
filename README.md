@@ -13,13 +13,12 @@ accept pull requests as well.
 
 ## Table of contents
 
--  [Examples](examples)
-    - [Create a cordova project](examples/create.md)
-    - [Add a plugin](examples/plugin.md)
-    - [Set preferences](examples/preferences.md)
-    - [Add an icon](examples/icon.md)
-    - [Build a project](examples/build)
-        - [Android](examples/build/android.md)
+- [Create a cordova project](doc/create.md)
+- [Add a plugin](doc/plugin.md)
+- [Set preferences](doc/preferences.md)
+- [Add an icon](doc/icon.md)
+- [Build a project](doc/build)
+    - [Android](doc/build/android.md)
 
 ## Plugins
 
