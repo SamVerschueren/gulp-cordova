@@ -16,6 +16,7 @@ accept pull requests as well.
 -  [Examples](examples)
     - [Create a cordova project](examples/create.md)
     - [Add a plugin](examples/plugin.md)
+    - [Set preferences](examples/preferences.md)
     - [Add an icon](examples/icon.md)
     - [Build a project](examples/build)
         - [Android](examples/build/android.md)
