@@ -13,7 +13,7 @@ accept pull requests as well.
 
 ## Table of contents
 
--  [Examples](examples/examples.md)
+-  [Examples](examples)
     - [Create a cordova project](examples/create.md)
     - [Add a plugin](examples/plugin.md)
     - [Add an icon](examples/icon.md)
