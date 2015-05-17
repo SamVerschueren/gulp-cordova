@@ -19,6 +19,7 @@ accept pull requests as well.
 - [Add an icon](doc/icon.md)
 - [Build a project](doc/build)
     - [Android](doc/build/android.md)
+    - [BlackBerry 10](doc/build/blackberry10.md)
 
 ## Plugins
 

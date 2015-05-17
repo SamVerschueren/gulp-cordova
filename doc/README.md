@@ -6,3 +6,4 @@
 - [Add an icon](icon.md)
 - [Build a project](build)
     - [Android](build/android.md)
+    - [BlackBerry 10](build/blackberry10.md)
