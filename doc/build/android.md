@@ -37,7 +37,43 @@ This will store the `apk` in the `build` directory.
 
 ### Signing
 
-> TODO
+If you want to let the plugin sign the `apk` for release, you can provide extra options.
+
+```JavaScript
+var gulp = require('gulp'),
+    create = require('gulp-create'),
+    android = require('gulp-cordova-android');
+
+gulp.task('create', function() {
+    return gulp.src('dist')
+        .pipe(create())
+        .pipe(android({storeFile: '/Path/to/key.keystore', keyAlias: 'my_alias'}))
+        .pipe(gulp.dest('builds'));
+});
+```
+
+When this command is ran, it will ask for the keystore password and for the alias password. If you provide it, it will store
+the signed apk in the `builds` directory.
+
+If you don't want to provide the passwords over and over again, it is possible to provide the passwords via the options object.
+
+```JavaScript
+var gulp = require('gulp'),
+    create = require('gulp-create'),
+    android = require('gulp-cordova-android');
+
+gulp.task('create', function() {
+    return gulp.src('dist')
+        .pipe(create())
+        .pipe(android({
+            storeFile: '/Path/to/key.keystore',
+            storePassword: 'mypass',
+            keyAlias: 'my_alias',
+            keyPassword: 'keypass'
+        }))
+        .pipe(gulp.dest('builds'));
+});
+```
 
 ## Plugin I/O
 
