@@ -31,11 +31,13 @@ These plugins are currently available.
     - Add a plugin to your cordova project.
 3. [gulp-cordova-preference](https://github.com/SamVerschueren/gulp-cordova-preference)
     - Set the preferences of your cordova project.
-4. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
+4. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
+    - Sets the author of the cordova project.
+5. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
     - Generates all the icons for your Cordova build automatically.
-5. [gulp-cordova-build-android](https://github.com/SamVerschueren/gulp-cordova-build-android)
+6. [gulp-cordova-build-android](https://github.com/SamVerschueren/gulp-cordova-build-android)
     - Build the cordova project for the Android platform.
-6. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
+7. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
     - Build the cordova project for the BlackBerry 10 platform.
 
 *More plugins will follow in the near future.*
