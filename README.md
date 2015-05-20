@@ -32,7 +32,7 @@ These plugins are currently available.
 3. [gulp-cordova-preference](https://github.com/SamVerschueren/gulp-cordova-preference)
     - Set the preferences of your cordova project.
 4. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
-    - Sets the author of the cordova project.
+    - Sets the author of the cordova project in the `config.xml`.
 5. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
     - Generates all the icons for your Cordova build automatically.
 6. [gulp-cordova-build-android](https://github.com/SamVerschueren/gulp-cordova-build-android)
