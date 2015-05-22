@@ -16,6 +16,7 @@ accept pull requests as well.
 - [Create a cordova project](doc/create.md)
 - [Add a plugin](doc/plugin.md)
 - [Set preferences](doc/preferences.md)
+- [Set project description](doc/description.md)
 - [Add an icon](doc/icon.md)
 - [Build a project](doc/build)
     - [Android](doc/build/android.md)
