@@ -26,23 +26,31 @@ accept pull requests as well.
 
 These plugins are currently available.
 
+## General
+
 1. [gulp-cordova-create](https://github.com/SamVerschueren/gulp-cordova-create)
     - Create a cordova project.
-2. [gulp-cordova-plugin](https://github.com/SamVerschueren/gulp-cordova-plugin)
+    
+## Configuration 
+
+1. [gulp-cordova-plugin](https://github.com/SamVerschueren/gulp-cordova-plugin)
     - Add a plugin to your cordova project.
-3. [gulp-cordova-preference](https://github.com/SamVerschueren/gulp-cordova-preference)
+2. [gulp-cordova-preference](https://github.com/SamVerschueren/gulp-cordova-preference)
     - Set the preferences of your cordova project.
-4. [gulp-cordova-version](https://github.com/SamVerschueren/gulp-cordova-version)
+3. [gulp-cordova-version](https://github.com/SamVerschueren/gulp-cordova-version)
     - Sets the version of the cordova project in the `config.xml` file.
-5. [gulp-cordova-description](https://github.com/SamVerschueren/gulp-cordova-description)
+4. [gulp-cordova-description](https://github.com/SamVerschueren/gulp-cordova-description)
     - Sets the description of the cordova project in the `config.xml` file.
-6. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
+5. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
     - Sets the author of the cordova project in the `config.xml` file.
-7. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
+6. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
     - Generates all the icons for your Cordova build automatically.
-8. [gulp-cordova-build-android](https://github.com/SamVerschueren/gulp-cordova-build-android)
+    
+## Building
+
+1. [gulp-cordova-build-android](https://github.com/SamVerschueren/gulp-cordova-build-android)
     - Build the cordova project for the Android platform.
-9. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
+2. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
     - Build the cordova project for the BlackBerry 10 platform.
 
 *More plugins will follow in the near future.*
