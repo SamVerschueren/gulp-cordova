@@ -18,6 +18,7 @@ accept pull requests as well.
 - [Set preferences](doc/preferences.md)
 - [Set version](doc/version.md)
 - [Set project description](doc/description.md)
+- [Set author](doc/author.md)
 - [Add an icon](doc/icon.md)
 - [Build a project](doc/build)
     - [Android](doc/build/android.md)

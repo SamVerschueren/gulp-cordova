@@ -5,6 +5,7 @@
 - [Set preferences](preferences.md)
 - [Set version](version.md)
 - [Set project description](description.md)
+- [Set author](author.md)
 - [Add an icon](icon.md)
 - [Build a project](build)
     - [Android](build/android.md)
