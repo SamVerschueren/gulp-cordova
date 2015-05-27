@@ -28,12 +28,16 @@ accept pull requests as well.
 
 These plugins are currently available.
 
+*More plugins will follow in the near future.*
+
 ## General
 
 1. [gulp-cordova-create](https://github.com/SamVerschueren/gulp-cordova-create)
     - Create a cordova project.
     
 ## Configuration 
+
+These plugins can be used to change the configuration of the cordova project.
 
 1. [gulp-cordova-plugin](https://github.com/SamVerschueren/gulp-cordova-plugin)
     - Add a plugin to your cordova project.
@@ -50,13 +54,13 @@ These plugins are currently available.
     
 ## Building
 
+These build plugins can be used to build the cordova project for certain platforms.
+
 1. [gulp-cordova-build-android](https://github.com/SamVerschueren/gulp-cordova-build-android)
     - Build the cordova project for the Android platform.
 2. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
     - Build the cordova project for the BlackBerry 10 platform.
 
-*More plugins will follow in the near future.*
-
 ## Author
 
-- Sam Verschueren [<sam.verschueren@gmail.com>]
+- [@SamVerschueren](https://twitter.com/SamVerschueren) [<sam.verschueren@gmail.com>]
