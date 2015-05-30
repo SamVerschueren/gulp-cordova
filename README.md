@@ -34,8 +34,8 @@ These plugins are currently available.
 
 1. [gulp-cordova-create](https://github.com/SamVerschueren/gulp-cordova-create)
     - Create a cordova project.
-    
-## Configuration 
+
+## Configuration
 
 These plugins can be used to change the configuration of the cordova project.
 
@@ -43,15 +43,17 @@ These plugins can be used to change the configuration of the cordova project.
     - Add a plugin to your cordova project.
 2. [gulp-cordova-preference](https://github.com/SamVerschueren/gulp-cordova-preference)
     - Set the preferences of your cordova project.
-3. [gulp-cordova-version](https://github.com/SamVerschueren/gulp-cordova-version)
+3. [gulp-cordova-access](https://github.com/SamVerschueren/gulp-cordova-access)
+    - Sets the access origins of the cordova project.
+4. [gulp-cordova-version](https://github.com/SamVerschueren/gulp-cordova-version)
     - Sets the version of the cordova project in the `config.xml` file.
-4. [gulp-cordova-description](https://github.com/SamVerschueren/gulp-cordova-description)
+5. [gulp-cordova-description](https://github.com/SamVerschueren/gulp-cordova-description)
     - Sets the description of the cordova project in the `config.xml` file.
-5. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
+6. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
     - Sets the author of the cordova project in the `config.xml` file.
-6. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
+7. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
     - Generates all the icons for your Cordova build automatically.
-    
+
 ## Building
 
 These build plugins can be used to build the cordova project for certain platforms.
