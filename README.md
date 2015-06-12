@@ -53,6 +53,8 @@ These plugins can be used to change the configuration of the cordova project.
     - Sets the author of the cordova project in the `config.xml` file.
 7. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
     - Generates all the icons for your Cordova build automatically.
+8. [gulp-cordova-xml](https://github.com/SamVerschueren/gulp-cordova-xml)
+    - Adds raw xml tags to your `config.xml` file.
 
 ## Building
 
