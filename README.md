@@ -20,6 +20,7 @@ accept pull requests as well.
 - [Set project description](doc/description.md)
 - [Set author](doc/author.md)
 - [Add an icon](doc/icon.md)
+- [Add a splashscreen](doc/splashscreen.md)
 - [Build a project](doc/build)
     - [Android](doc/build/android.md)
     - [BlackBerry 10](doc/build/blackberry10.md)
