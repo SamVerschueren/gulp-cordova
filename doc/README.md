@@ -7,6 +7,7 @@
 - [Set project description](description.md)
 - [Set author](author.md)
 - [Add an icon](icon.md)
+- [Add a splashscreen](splashscreen.md)
 - [Build a project](build)
     - [Android](build/android.md)
     - [BlackBerry 10](build/blackberry10.md)
