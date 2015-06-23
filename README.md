@@ -65,6 +65,8 @@ These build plugins can be used to build the cordova project for certain platfor
     - Build the cordova project for the Android platform.
 2. [gulp-cordova-build-bb10](https://github.com/SamVerschueren/gulp-cordova-build-bb10)
     - Build the cordova project for the BlackBerry 10 platform.
+3. [gulp-cordova-build-ios](https://github.com/SamVerschueren/gulp-cordova-build-ios)
+    - Build the cordova project for the iOS platform.
 
 ## Author
 
