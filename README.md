@@ -42,19 +42,21 @@ These plugins can be used to change the configuration of the cordova project.
 
 1. [gulp-cordova-plugin](https://github.com/SamVerschueren/gulp-cordova-plugin)
     - Add a plugin to your cordova project.
-2. [gulp-cordova-preference](https://github.com/SamVerschueren/gulp-cordova-preference)
+2. [gulp-cordova-plugin-remove](https://github.com/SamVerschueren/gulp-cordova-plugin-remove)
+    - Removes a plugin from the cordova project.
+3. [gulp-cordova-preference](https://github.com/SamVerschueren/gulp-cordova-preference)
     - Set the preferences of your cordova project.
-3. [gulp-cordova-access](https://github.com/SamVerschueren/gulp-cordova-access)
+4. [gulp-cordova-access](https://github.com/SamVerschueren/gulp-cordova-access)
     - Sets the access origins of the cordova project.
-4. [gulp-cordova-version](https://github.com/SamVerschueren/gulp-cordova-version)
+5. [gulp-cordova-version](https://github.com/SamVerschueren/gulp-cordova-version)
     - Sets the version of the cordova project in the `config.xml` file.
-5. [gulp-cordova-description](https://github.com/SamVerschueren/gulp-cordova-description)
+6. [gulp-cordova-description](https://github.com/SamVerschueren/gulp-cordova-description)
     - Sets the description of the cordova project in the `config.xml` file.
-6. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
+7. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
     - Sets the author of the cordova project in the `config.xml` file.
-7. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
+8. [gulp-cordova-icon](https://github.com/SamVerschueren/gulp-cordova-icon)
     - Generates all the icons for your Cordova build automatically.
-8. [gulp-cordova-xml](https://github.com/SamVerschueren/gulp-cordova-xml)
+9. [gulp-cordova-xml](https://github.com/SamVerschueren/gulp-cordova-xml)
     - Adds raw xml tags to your `config.xml` file.
 
 ## Building
