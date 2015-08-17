@@ -45,7 +45,6 @@ gulp.task('build', function() {
         .pipe(create())
         .pipe(android({release: true}))
         .pipe(gulp.dest('builds'));
-    });
 });
 ```
 
