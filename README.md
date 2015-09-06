@@ -47,7 +47,7 @@ These plugins can be used to change the configuration of the cordova project.
     - Removes a plugin from the cordova project.  
     [![Build Status](https://travis-ci.org/SamVerschueren/gulp-cordova-plugin-remove.svg?branch=master)](https://travis-ci.org/SamVerschueren/gulp-cordova-plugin-remove)
 3. [gulp-cordova-preference](https://github.com/SamVerschueren/gulp-cordova-preference)
-    - Set the preferences of your cordova project.
+    - Set the preferences of your cordova project.  
     [![Build Status](https://travis-ci.org/SamVerschueren/gulp-cordova-preference.svg?branch=master)](https://travis-ci.org/SamVerschueren/gulp-cordova-preference)
 4. [gulp-cordova-access](https://github.com/SamVerschueren/gulp-cordova-access)
     - Sets the access origins of the cordova project.
