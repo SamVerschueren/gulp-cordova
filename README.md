@@ -58,7 +58,8 @@ These plugins can be used to change the configuration of the cordova project.
     [![Build Status](https://travis-ci.org/SamVerschueren/gulp-cordova-version.svg?branch=master)](https://travis-ci.org/SamVerschueren/gulp-cordova-version)
     [![Coverage Status](https://coveralls.io/repos/SamVerschueren/gulp-cordova-version/badge.svg?branch=master&service=github)](https://coveralls.io/github/SamVerschueren/gulp-cordova-version?branch=master)
 6. [gulp-cordova-description](https://github.com/SamVerschueren/gulp-cordova-description)
-    - Sets the description of the cordova project in the `config.xml` file.
+    - Sets the description of the cordova project in the `config.xml` file.  
+    [![Build Status](https://travis-ci.org/SamVerschueren/gulp-cordova-description.svg?branch=master)](https://travis-ci.org/SamVerschueren/gulp-cordova-description)
 7. [gulp-cordova-author](https://github.com/SamVerschueren/gulp-cordova-author)
     - Sets the author of the cordova project in the `config.xml` file.  
     [![Build Status](https://travis-ci.org/SamVerschueren/gulp-cordova-author.svg?branch=master)](https://travis-ci.org/SamVerschueren/gulp-cordova-author)
