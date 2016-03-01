@@ -18,7 +18,7 @@ var gulp = require('gulp'),
 
 gulp.task('create', function() {
     return gulp.src('dist')
-        .pipe(create({directory: 'myproject', id: 'com.myproject.hello', name: 'MyProject'}));
+        .pipe(create({dir: 'myproject', id: 'com.myproject.hello', name: 'MyProject'}));
 });
 ```
 
