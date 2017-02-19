@@ -14,7 +14,7 @@ By default, the [`gulp-cordova-create`](https://github.com/SamVerschueren/gulp-c
 
 ```JavaScript
 var gulp = require('gulp'),
-    create = require('gulp-create');
+    create = require('gulp-cordova-create');
 
 gulp.task('create', function() {
     return gulp.src('dist')
