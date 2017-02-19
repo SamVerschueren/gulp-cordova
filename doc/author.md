@@ -3,7 +3,7 @@
 The `config.xml` contains the information regarding the author. This information consists of the author's name, email address and
 website.
 
-This small and easy-to-use plugin sets the author in the `config.xml` file.
+This small and easy-to-use [`plugin`](https://github.com/SamVerschueren/gulp-cordova-plugin) sets the author in the `config.xml` file.
 
 ## Usage
 
