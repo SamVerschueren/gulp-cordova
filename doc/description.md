@@ -3,7 +3,7 @@
 The `config.xml` file consists of all the information regarding the cordova project. The description of the cordova project is also
 defined in here.
 
-This small and easy-to-use plugin sets the description in the `config.xml` file.
+This small and easy-to-use [`plugin`](https://github.com/SamVerschueren/gulp-cordova-description) sets the description in the `config.xml` file.
 
 ## Usage
 
